@@ -82,5 +82,5 @@ int main(){
 	cin >> s;
 	cout << ac.query(s) << endl;
 	return 0;
-  // Write by Kryagon
+    // Write by Kryagon
 }
