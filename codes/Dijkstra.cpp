@@ -34,5 +34,5 @@ int main(){
 	}
 	for(int i = 1;i <= n;i++)cout << dst[i] << ' ';
 	return 0;
-  // Write By Kryagon
+    // Write By Kryagon
 }
