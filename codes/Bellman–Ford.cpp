@@ -30,5 +30,5 @@ signed main(){
     }
     for(int i = 1;i <= n;i++)cout << (dst[i] == INF ? -1 : dst[i]) << ' ';
 	return 0;
-  // Write By Kryagon
+    // Write By Kryagon
 }
